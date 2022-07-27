@@ -1,0 +1,3 @@
+/home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/SumVariadicFunction/cmake-build-debug/CMakeFiles/SumVariadicFunction.dir
+/home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/SumVariadicFunction/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/SumVariadicFunction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
