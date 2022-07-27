@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Files">
+		<Project filename="Test/Test.cbp" />
+		<Project filename="NumberOfLines/NumberOfLines.cbp" />
+		<Project filename="UppercaseFile/UppercaseFile.cbp" />
+		<Project filename="ReverseFile/ReverseFile.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

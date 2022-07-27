@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Pointers">
+		<Project filename="Test/Test.cbp" />
+		<Project filename="PointerBasics/PointerBasics.cbp" />
+		<Project filename="PointerParameters/PointerParameters.cbp" />
+		<Project filename="DynamicAllocation/DynamicAllocation.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

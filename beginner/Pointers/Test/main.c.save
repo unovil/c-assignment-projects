@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+typedef unsigned long long ull;
+typedef unsigned long ul;
+
+int main (void) {
+    long multiples[] = {15L, 25L, 35L, 45L};
+    long *p = multiples;
+
+    for (int i = 0; i < sizeof(multiples)/sizeof(*multiples); ++i) {
+        printf("address p + %d (&multiple[%d]): %ld  |  ", i, i, (ul) (p + i));
+        printf("*(p + %d) value: %ld\n", i, *(p + i));
+    }
+
+    printf("\n-> Type long occupies %d bytes\n", (int) sizeof(long));
+    printf("hello")
+    return 0;
+}
+
+void cpyStr(char somestr[]) => printf("Hello");

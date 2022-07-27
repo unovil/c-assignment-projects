@@ -1,0 +1,54 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    /*{
+      "type": "shell",
+      "label": "gcc build active file",
+      "command": "gcc",
+      "args": [
+        "-g",
+        "${file}",
+        "-o",
+        "${fileDirname}\\${fileBasenameNoExtension}.exe",
+        "-Werror",
+        "-Wall",
+        "-Wextra",
+        "-ansi",
+        "-pedantic"
+      ],
+      "options": {
+        "cwd": "C:\\cygwin64\\bin"
+      },
+      "problemMatcher": [
+        "$gcc"
+      ],
+      "group": "build",
+      "detail": "compiler: C:\\cygwin64\\bin\\gcc.exe"
+    }, */
+    {
+      "type": "cppbuild",
+      "label": "C/C++: gcc.exe build active file",
+      "command": "C:/cygwin64/bin/gcc.exe",
+      "args": [
+        "-g",
+        "${file}",
+        "-o",
+        "${fileDirname}\\${fileBasenameNoExtension}.exe",
+        // "-Werror" for treating all warnings as build errors
+        "-Wall",
+        "-std=c17"
+      ],
+      "options": {
+        "cwd": "C:/cygwin64/bin"
+      },
+      "problemMatcher": [
+        "$gcc"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "compiler: C:/cygwin64/bin/gcc.exe"
+    }
+  ]
+}

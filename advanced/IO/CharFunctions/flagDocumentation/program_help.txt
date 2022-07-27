@@ -1,0 +1,22 @@
+--- CHARACTER CHALLENGES ---
+This program is designed to complete 2 character challenges.
+This program can do 2 things:
+    1. count the number of words and chars in a file or stdin
+    2. convert an input from file into upper or lowercase
+
+--- FLAGS USED ---
+--help
+launches the program help
+
+--count [file]
+counts the words and chars from an input
+if file is inputted, the file is read. if file is not inputted, stdin is read.
+(Take note to remove all trailing newlines from the file read before starting
+ the program, otherwise it could give false results.)
+
+--convert_case (file) (upper|lower|flip)
+converts characters from a required file
+by default, upper characters are converted to lower and vice versa.
+you can add an "upper/lower" clause to make it explicit
+
+Made in 2/25/2022 with <3 from Juan Miguel L. Villegas

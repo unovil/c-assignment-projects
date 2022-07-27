@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1629789174 source:d:\documents\c\c_workspaces\advanced\advancedtypes\flexiblearraymember\intarr.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"intarr.h"
+
+1629789174 d:\documents\c\c_workspaces\advanced\advancedtypes\flexiblearraymember\intarr.h
+

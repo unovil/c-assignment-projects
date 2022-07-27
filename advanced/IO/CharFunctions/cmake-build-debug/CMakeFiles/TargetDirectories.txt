@@ -1,0 +1,3 @@
+D:/Users/Uno/Documents/Programming Languages/C Documents/c_workspaces/advanced/IO/CharFunctions/cmake-build-debug/CMakeFiles/CharFunctions.dir
+D:/Users/Uno/Documents/Programming Languages/C Documents/c_workspaces/advanced/IO/CharFunctions/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Uno/Documents/Programming Languages/C Documents/c_workspaces/advanced/IO/CharFunctions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

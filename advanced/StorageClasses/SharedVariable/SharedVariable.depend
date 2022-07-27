@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628758829 source:d:\documents\c\c_workspaces\advanced\sharedvariable\main.c
+	<stdio.h>
+	<stdlib.h>
+

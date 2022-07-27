@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625378136 source:d:\documents\c_workspaces\strings\reverseandbubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<stdbool.h>
+

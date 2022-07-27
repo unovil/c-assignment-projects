@@ -1,0 +1,3 @@
+D:/Documents/C/c_workspaces/advanced/BitManipulation/OnScreenBox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Documents/C/c_workspaces/advanced/BitManipulation/OnScreenBox/cmake-build-debug/CMakeFiles/OnScreenBox.dir
+D:/Documents/C/c_workspaces/advanced/BitManipulation/OnScreenBox/cmake-build-debug/CMakeFiles/edit_cache.dir

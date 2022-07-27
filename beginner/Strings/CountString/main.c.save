@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef unsigned long ul;
+
+// write function to calculate length of string
+// function takes param as const char pointer
+// function determines length using pointer arithmetic
+// use while loop
+// subtract two ptrs (end and start) and return int
+int strlenPointer (const char *string)
+{
+    const char *startpointer, *endpointer;
+    startpointer = string;
+    endpointer = string;
+    
+    while (*string) ++endpointer;
+    
+    return (int) ((ul) endpointer - (ul) startpointer)
+}
+
+int main()
+{
+    const char testStr[20] = "Hello there!";
+    
+    printf("TestStr%d", strlenPointer(testStr));
+    
+    printf("Hello world!\n");
+    
+    return 0;
+}

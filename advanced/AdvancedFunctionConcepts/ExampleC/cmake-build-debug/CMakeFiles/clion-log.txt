@@ -1,0 +1,4 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /usr/bin/zsh -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/ExampleC/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/ExampleC"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/ExampleC/cmake-build-debug

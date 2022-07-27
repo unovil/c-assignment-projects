@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1618057775 source:d:\documents\c_workspaces\functions\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+	<string.h>
+

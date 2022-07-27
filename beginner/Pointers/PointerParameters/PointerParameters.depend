@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625834356 source:d:\documents\c_workspaces\strings\pointerparameters\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1625941518 source:d:\documents\c_workspaces\pointers\pointerparameters\main.c
+	<stdio.h>
+	<stdlib.h>
+

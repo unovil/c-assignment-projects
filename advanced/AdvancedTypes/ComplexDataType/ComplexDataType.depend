@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629987871 source:d:\documents\c\c_workspaces\advanced\advancedtypes\complexdatatype\main.c
+	<stdio.h>
+	<math.h>
+	<complex.h>
+

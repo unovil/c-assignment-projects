@@ -1,0 +1,16 @@
+# ninja log v5
+1	224	6767269875983253	CMakeFiles/StringFunctions.dir/main.c.obj	b48a5fdee5d78262
+224	375	6767269877433100	StringFunctions.exe	6856ae7c537a400
+2	183	6767273561711832	../StringFunctions.exe	6682cbf124d5450c
+1	238	6767273958634081	CMakeFiles/StringFunctions.dir/main.c.obj	b48a5fdee5d78262
+238	386	6767273960047427	../StringFunctions.exe	6682cbf124d5450c
+1	277	6767281463598294	CMakeFiles/StringFunctions.dir/main.c.obj	b48a5fdee5d78262
+278	529	6767281465853926	../StringFunctions.exe	6682cbf124d5450c
+2	289	6767281778076941	CMakeFiles/StringFunctions.dir/main.c.obj	b48a5fdee5d78262
+290	459	6767281779705774	../StringFunctions.exe	6682cbf124d5450c
+1	264	6767282443452441	CMakeFiles/StringFunctions.dir/main.c.obj	b48a5fdee5d78262
+266	531	6767282445910993	../StringFunctions.exe	6682cbf124d5450c
+2	251	6767282676500229	CMakeFiles/StringFunctions.dir/main.c.obj	b48a5fdee5d78262
+252	401	6767282677926421	../StringFunctions.exe	6682cbf124d5450c
+1	238	6767283521434599	CMakeFiles/StringFunctions.dir/main.c.obj	b48a5fdee5d78262
+238	387	6767283522861851	../StringFunctions.exe	6682cbf124d5450c

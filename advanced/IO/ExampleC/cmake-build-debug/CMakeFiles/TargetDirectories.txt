@@ -1,0 +1,3 @@
+D:/Users/Uno/Documents/Programming Languages/C Documents/c_workspaces/advanced/IO/ExampleC/cmake-build-debug/CMakeFiles/ExampleC.dir
+D:/Users/Uno/Documents/Programming Languages/C Documents/c_workspaces/advanced/IO/ExampleC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Uno/Documents/Programming Languages/C Documents/c_workspaces/advanced/IO/ExampleC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

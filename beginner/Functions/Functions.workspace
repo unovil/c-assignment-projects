@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Functions">
+		<Project filename="TicTacToe/TicTacToe.cbp" />
+		<Project filename="TicTacToe_verTwo/TicTacToe_verTwo.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

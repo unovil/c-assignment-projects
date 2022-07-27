@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619272914 source:d:\documents\c_workspaces\functions\tictactoe_vertwo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<unistd.h>
+

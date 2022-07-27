@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625715426 source:d:\documents\c_workspaces\strings\countstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
