@@ -1,3 +1,0 @@
-/home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/ExampleC/cmake-build-debug/CMakeFiles/a.exe.dir
-/home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/ExampleC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/unovil/C/c_workspaces/advanced/AdvancedFunctionConcepts/ExampleC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
