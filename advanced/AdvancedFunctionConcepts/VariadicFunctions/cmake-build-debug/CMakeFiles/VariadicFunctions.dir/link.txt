@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/VariadicFunctions.dir/main.c.o CMakeFiles/VariadicFunctions.dir/headers/vmath.c.o CMakeFiles/VariadicFunctions.dir/headers/print.c.o -o ../VariadicFunctions 
