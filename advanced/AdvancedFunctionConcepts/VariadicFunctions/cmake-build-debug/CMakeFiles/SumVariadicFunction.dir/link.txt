@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/SumVariadicFunction.dir/main.c.o CMakeFiles/SumVariadicFunction.dir/headers/vmath.c.o CMakeFiles/SumVariadicFunction.dir/headers/print.c.o -o ../SumVariadicFunction 

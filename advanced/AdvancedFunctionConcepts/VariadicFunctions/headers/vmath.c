@@ -10,7 +10,7 @@ int i_vsum(int num1, ...) {
     int currentnum;
 
     va_start(addends, num1);
-    while ((currentnum = va_arg(addends, int)) != INT_MIN) {
+    while ((currentnum = va_arg(addends, int)) != 0) {
         sum += currentnum;
     }
     va_end(addends);
@@ -23,7 +23,7 @@ double d_vsum(double num1, ...) {
     double currentnum;
 
     va_start(addends, num1);
-    while ((currentnum = va_arg(addends, double)) != -DBL_MAX) {
+    while ((currentnum = va_arg(addends, double)) != 0) {
         sum += currentnum;
     }
     va_end(addends);
@@ -37,7 +37,7 @@ float i_vmean(int num1, ...) {
     unsigned int addendCount = 1;
 
     va_start(addends, num1);
-    while ((currentnum = va_arg(addends, int)) != INT_MIN) {
+    while ((currentnum = va_arg(addends, int)) != 0) {
         sum += currentnum;
         addendCount += 1;
     }
@@ -51,7 +51,7 @@ double d_vmean(double num1, ...) {
     unsigned int addendCount = 1;
 
     va_start(addends, num1);
-    while ((currentnum = va_arg(addends, double)) != -DBL_MAX) {
+    while ((currentnum = va_arg(addends, double)) != 0) {
         sum += currentnum;
         addendCount += 1;
     }
@@ -67,17 +67,17 @@ int i_vext(enum EXTREMES ext, int num1, ...) {
 
     va_start(numbers, num1);
     if (ext == E_MIN) {
-        while ((currentnum = va_arg(numbers, int)) != INT_MIN) {
+        while ((currentnum = va_arg(numbers, int)) != 0) {
             retval = ((currentnum < retval) ? currentnum : retval);
         }
     }
     else if (ext == E_MAX) {
-        while ((currentnum = va_arg(numbers, int)) != INT_MIN) {
+        while ((currentnum = va_arg(numbers, int)) != 0) {
             retval = ((currentnum > retval) ? currentnum : retval);
         }
     }
     else {
-        retval = INT_MAX;
+        retval = 0;
     }
 
     va_end(numbers);
@@ -91,17 +91,17 @@ double d_vext(enum EXTREMES ext, double num1, ...) {
 
     va_start(numbers, num1);
     if (ext == E_MIN) {
-        while ((currentnum = va_arg(numbers, double)) != -DBL_MAX) {
+        while ((currentnum = va_arg(numbers, double)) != 0) {
             retval = ((currentnum < retval) ? currentnum : retval);
         }
     }
     else if (ext == E_MAX) {
-        while ((currentnum = va_arg(numbers, double)) != -DBL_MAX) {
+        while ((currentnum = va_arg(numbers, double)) != 0) {
             retval = ((currentnum > retval) ? currentnum : retval);
         }
     }
     else {
-        retval = -DBL_MAX;
+        retval = 0;
     }
 
     va_end(numbers);
